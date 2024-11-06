@@ -1,3 +1,4 @@
+https://github.com/Denver2002620/Base-programaci-n.git
 # Base-programaci-n
 Enunciado de los ejercicios: Ejercicios por parejas/trios con un único repositorio en Github
 Declaración de variables (ENTREGA OBLIGATORIA 05.11.2024)
